@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form2">
+	<properties>
+		<property name="Left" vt="Int16">296</property>
+		<property name="Top" vt="Int16">146</property>
+		<property name="Width" vt="Int16">667</property>
+		<property name="Height" vt="Int16">528</property>
+		<property name="Caption" vt="String">Line98 by Viet Anh</property>
+		<property name="Color" vt="Ident">clWindow</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int32">262400</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="Description" vt="String">A standard Windows Form.</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAPic" name="Pic1">
+			<properties>
+				<property name="Left" vt="Int16">492</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int16">160</property>
+				<property name="Height" vt="Int16">478</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\ScoreBoard.bmp</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic2">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int16">478</property>
+				<property name="Height" vt="Int16">478</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\BG.bmp</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic3">
+			<properties>
+				<property name="Left" vt="Int16">537</property>
+				<property name="Top" vt="Int8">126</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic4">
+			<properties>
+				<property name="Left" vt="Int16">562</property>
+				<property name="Top" vt="Int8">126</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic5">
+			<properties>
+				<property name="Left" vt="Int16">587</property>
+				<property name="Top" vt="Int8">126</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic6">
+			<properties>
+				<property name="Left" vt="Int16">612</property>
+				<property name="Top" vt="Int8">126</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic7">
+			<properties>
+				<property name="Left" vt="Int16">610</property>
+				<property name="Top" vt="Int16">219</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic8">
+			<properties>
+				<property name="Left" vt="Int16">585</property>
+				<property name="Top" vt="Int16">219</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">7</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic9">
+			<properties>
+				<property name="Left" vt="Int16">560</property>
+				<property name="Top" vt="Int16">219</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic10">
+			<properties>
+				<property name="Left" vt="Int16">535</property>
+				<property name="Top" vt="Int16">219</property>
+				<property name="Width" vt="Int8">25</property>
+				<property name="Height" vt="Int8">35</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\number 0.bmp</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic11">
+			<properties>
+				<property name="Left" vt="Int16">506</property>
+				<property name="Top" vt="Int16">288</property>
+				<property name="Width" vt="Int16">135</property>
+				<property name="Height" vt="Int8">37</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\NewGame.bmp</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic12">
+			<properties>
+				<property name="Left" vt="Int16">506</property>
+				<property name="Top" vt="Int16">328</property>
+				<property name="Width" vt="Int16">135</property>
+				<property name="Height" vt="Int8">37</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\HowToPlay.bmp</property>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic13">
+			<properties>
+				<property name="Left" vt="Int16">506</property>
+				<property name="Top" vt="Int16">368</property>
+				<property name="Width" vt="Int16">135</property>
+				<property name="Height" vt="Int8">37</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\HighScore.bmp</property>
+				<property name="TabOrder" vt="Int8">12</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic14">
+			<properties>
+				<property name="Left" vt="Int16">506</property>
+				<property name="Top" vt="Int16">408</property>
+				<property name="Width" vt="Int16">135</property>
+				<property name="Height" vt="Int8">37</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\AboutMe.bmp</property>
+				<property name="TabOrder" vt="Int8">13</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic15">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">14</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic16">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">15</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic17">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">16</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic18">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">17</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic19">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">18</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic20">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">19</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic21">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">20</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic22">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">21</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic23">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int8">21</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">22</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic24">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">23</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic25">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">24</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic26">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">25</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic27">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">26</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic28">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">27</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic29">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">28</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic30">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">29</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic31">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">30</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic32">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int8">71</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">31</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic33">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">32</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic34">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">33</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic35">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">34</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic36">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">35</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic37">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">36</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic38">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">37</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic39">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">38</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic40">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">39</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic41">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int8">121</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">40</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic42">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">41</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic43">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">42</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic44">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">43</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic45">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">44</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic46">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">45</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic47">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">46</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic48">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">47</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic49">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">48</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic50">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">171</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">49</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic51">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">50</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic52">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">51</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic53">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">52</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic54">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">53</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic55">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">54</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic56">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">55</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic57">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">56</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic58">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">57</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic59">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">221</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">58</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic60">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">59</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic61">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">60</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic62">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">61</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic63">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">62</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic64">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">63</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic65">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">64</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic66">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">65</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic67">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">66</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic68">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">271</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">67</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic69">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">68</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic70">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">69</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic71">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">70</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic72">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">71</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic73">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">72</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic74">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">73</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic75">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">74</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic76">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">75</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic77">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">321</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">76</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic78">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">77</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic79">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">78</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic80">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">79</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic81">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">80</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic82">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">81</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic83">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">82</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic84">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">83</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic85">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">84</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic86">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">371</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">85</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic87">
+			<properties>
+				<property name="Left" vt="Int8">23</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">86</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic88">
+			<properties>
+				<property name="Left" vt="Int8">73</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">87</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic89">
+			<properties>
+				<property name="Left" vt="Int8">123</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">88</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic90">
+			<properties>
+				<property name="Left" vt="Int16">173</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">89</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic91">
+			<properties>
+				<property name="Left" vt="Int16">223</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">90</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic92">
+			<properties>
+				<property name="Left" vt="Int16">273</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">91</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic93">
+			<properties>
+				<property name="Left" vt="Int16">323</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">92</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic94">
+			<properties>
+				<property name="Left" vt="Int16">373</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">93</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAPic" name="Pic95">
+			<properties>
+				<property name="Left" vt="Int16">423</property>
+				<property name="Top" vt="Int16">421</property>
+				<property name="Width" vt="Int8">48</property>
+				<property name="Height" vt="Int8">48</property>
+				<property name="CtrlStyle" vt="Int32">1342308622</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">E:\Line98\Images\1.bmp</property>
+				<property name="TabOrder" vt="Int8">94</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>
