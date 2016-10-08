@@ -581,7 +581,7 @@ Func AboutMe()
 	_GIF_DeleteGIF($gcAboutMe)
 	$gcAboutMe = _GUICtrlCreateGIF($Pic_AboutMe, "", 500, 430)
 ;~ 	Tạo nhấn chuột
-	MsgBox(0, "About me", "Game Line98" & @LF & "Designed and Coded by Viet Anh" & @LF & "Email: vietanhstd@gmail.com" & @LF & "(F) fb.com/vietanh197" & @LF & "Have fun!")
+	MsgBox(0, "About me", "Game Line98" & @LF & "Designed and Coded by Viet Anh" & @LF & "Email: vietanh@vietanhdev.com" & @LF & "(F) fb.com/vietanh197" & @LF & "Have fun!")
 EndFunc   ;==>AboutMe
 
 
